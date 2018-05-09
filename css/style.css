@@ -4,7 +4,7 @@ portfolio
 
 */
 
-/* Body 
+/* Body
 ------------------------------------- */
 body {
 		background: #ffffff;
@@ -56,7 +56,7 @@ h5 {
 }
 
 p {
-  color: #777;
+  color: #444;
   font-size: 16px;
   line-height: 28px;
   word-spacing: 1px;
@@ -180,7 +180,7 @@ nav a {
   text-decoration: none;
 }
 
-.navicon {  
+.navicon {
   position: relative;
   right: 0;
   display: -webkit-flex;
@@ -212,6 +212,7 @@ nav ul.right {
 #nav-menu li {
   list-style: none;
   padding: 6px;
+  background: transparent;
 }
 
 .nav-text-light a {
@@ -256,7 +257,7 @@ a.icon {
   padding-right: 20px;
 }
 
-.intro-inner {  
+.intro-inner {
   position: absolute;
   left: 50%;
   top: 50%;
@@ -455,7 +456,7 @@ a.icon {
   position: relative;
   overflow: hidden;
   margin: 0;
-} 
+}
 
 #portfolio .portfolio-thumb .portfolio-overlay {
   background: #141414;
@@ -553,7 +554,7 @@ a.icon {
     width: 100%;
     height: 100%;
     overflow: hidden;
-} 
+}
 
 .fluid-img {
     width: 100%;
@@ -598,7 +599,7 @@ a.icon {
 
 /* blog & single post section styles
 /* ========================================== */
-#blog, 
+#blog,
 #single-post {
   padding-top: 4rem;
   padding-bottom: 6rem;
